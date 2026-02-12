@@ -127,7 +127,7 @@ Reports included:
 ---
 
 ## 📁 Project Structure
-'''
+
 retail-data-warehouse-analytics
 │
 ├── 1_bronze_layer   # Raw data ingestion (staging tables & bulk load)
@@ -137,7 +137,7 @@ retail-data-warehouse-analytics
 ├── reports          # Final reporting queries
 ├── documents        # Architecture diagrams & data catalog
 └── README.md
-'''
+
 ---
 
 ## 📈 Outcome
